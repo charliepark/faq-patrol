@@ -2,9 +2,9 @@
 
 ### Make FAQ pages more useful.
 
-FAQ pages can be useful when they have a lot of content.
+FAQ pages can be *useful* when they have a lot of content.
 
-They're usable when they aren't overwhelming.
+They're *usable* when they aren't overwhelming.
 
 The ideal scenario has a thorough, comprehensive FAQ page, that's easily filterable, so you get just the things you want. That's what FAQ Patrol does.
 
