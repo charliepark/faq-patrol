@@ -10,6 +10,10 @@ The ideal scenario has a thorough, comprehensive FAQ page, that's easily filtera
 
 It's simple enough that it probably doesn't need its own repository, but it's easy enough to make these repos, and it reifies it a bit, so whatever. Here you go.
 
+## An example
+
+<a href="http://charliepark.org/faq-patrol">http://charliepark.org/faq-patrol</a>
+
 ## The code
 
 Either in your application.js file or your javascript at the bottom of the page, include the following lines:
