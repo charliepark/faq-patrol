@@ -53,9 +53,9 @@
 			} else {
 				$("div").css('display','none');
 				var array_of_strings = $(this).val().split(' ');
-					$.each(array_of_strings, function(index, value) { 
-			  		$(":contains("+value+")").parents(".section").css('display','block');
-					});
+				$.each(array_of_strings, function(index, value) { 
+			  	$(":contains("+value+")").parents(".section").css('display','block');
+				});
 			}
 		});
 	</script>
