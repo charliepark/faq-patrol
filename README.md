@@ -29,7 +29,7 @@ Either in your application.js file or your javascript at the bottom of the page,
 			});
 		});
 
-You'll want to reference jQuery, of course. See the example HTML page for the total package.
+You'll want to reference jQuery, of course. See the <a href="http://charliepark.org/faq-patrol">example HTML page</a> for the total package.
 
 Then, on your FAQ page, you'd have an input with the ID "filter". It doesn't have to actually be a part of a form. It can be a free-standing input text field.
 
